@@ -9,7 +9,7 @@ public class TestaHosped {
         
         Cliente cliente = new Cliente();
         
-        cliente.setNome("João");
+        cliente.setNome("João Carlos");
 
         System.out.println(cliente.getNome());
     }
